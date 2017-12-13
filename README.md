@@ -17,12 +17,12 @@
 
 If you find our code helpful, please cite our Two-Branch Network Papers:
 
-@inproceedings{wang2016learning,
-  title={Learning deep structure-preserving image-text embeddings},
-  author={Wang, Liwei and Li, Yin and Lazebnik, Svetlana},
-  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
-  pages={5005--5013},
-  year={2016}
+@inproceedings{wang2016learning,  
+  title={Learning deep structure-preserving image-text embeddings}, 
+  author={Wang, Liwei and Li, Yin and Lazebnik, Svetlana},  
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},  
+  pages={5005--5013}, 
+  year={2016} 
 }
 
 @article{wang2017learning,
