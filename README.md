@@ -15,15 +15,15 @@
 * [Flickr30K checkpoint](https://drive.google.com/open?id=1oSOFU73zm6gzx3VZEszq2athX5b4NREV)
 * [MSCOCO checkpoint](https://drive.google.com/open?id=1HTXoHsnhj5oRH4c-z60rYw67Els6gIpV)
 
-If you find our code helpful, please cite our Two-Branch Network Papers:
-@inproceedings{wang2016learning,
+##If you find our code helpful, please cite our Two-Branch Network Papers:
+*@inproceedings{wang2016learning,
   title={Learning deep structure-preserving image-text embeddings},
   author={Wang, Liwei and Li, Yin and Lazebnik, Svetlana},
   booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
   pages={5005--5013},
   year={2016}
 }
-@article{wang2017learning,
+*@article{wang2017learning,
   title={Learning Two-Branch Neural Networks for Image-Text Matching Tasks},
   author={Wang, Liwei and Li, Yin and Lazebnik, Svetlana},
   journal={arXiv preprint arXiv:1704.03470},
