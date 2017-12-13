@@ -25,9 +25,9 @@ If you find our code helpful, please cite our Two-Branch Network Papers:
   year={2016} 
 }
 
-@article{wang2017learning,
-  title={Learning Two-Branch Neural Networks for Image-Text Matching Tasks},
-  author={Wang, Liwei and Li, Yin and Lazebnik, Svetlana},
-  journal={arXiv preprint arXiv:1704.03470},
-  year={2017}
+@article{wang2017learning,  
+  title={Learning Two-Branch Neural Networks for Image-Text Matching Tasks},  
+  author={Wang, Liwei and Li, Yin and Lazebnik, Svetlana},  
+  journal={arXiv preprint arXiv:1704.03470},  
+  year={2017} 
 }
