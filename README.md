@@ -15,6 +15,9 @@
 * [Flickr30K checkpoint](https://drive.google.com/open?id=1oSOFU73zm6gzx3VZEszq2athX5b4NREV)
 * [MSCOCO checkpoint](https://drive.google.com/open?id=1HTXoHsnhj5oRH4c-z60rYw67Els6gIpV)
 
+## To-Do list:
+* phrase localiztaion code (by early Jan)
+
 If you find our code helpful, please cite our Two-Branch Network Papers:
 
 @inproceedings{wang2016learning,
