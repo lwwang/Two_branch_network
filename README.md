@@ -19,6 +19,7 @@
 If you find our code helpful, please cite our Two-Branch Network Papers:
 
 ## References
+``` markdown
 @inproceedings{wang2016learning,
 title={Learning deep structure-preserving image-text embeddings},
 author={Wang, Liwei and Li, Yin and Lazebnik, Svetlana},
