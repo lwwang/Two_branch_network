@@ -17,7 +17,7 @@
 
 ## Extract Features for Images and Sentences:
 * For image features, we use the VGG 19 network to extract features. 
-* For sentence features, we are using the code from "Associating Neural Word Embeddings With Deep Image Representations Using Fisher Vectors (CVPR 2015)". Their code can be downloaded [here](https://owncloud.cs.tau.ac.il/index.php/s/vb7ys8Xe8J8s8vo).
+* For sentence features, we are using the code from "B. Klein, G. Lev, G. Sadeh, L. Wolf. Associating Neural Word Embeddings With Deep Image Representations Using Fisher Vectors (CVPR 2015)". Their code can be downloaded [here](https://owncloud.cs.tau.ac.il/index.php/s/vb7ys8Xe8J8s8vo).
 
 
 If you find our code helpful, please cite our Two-Branch Network Papers:
