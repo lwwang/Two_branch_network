@@ -10,6 +10,11 @@
 **Due to the size of the features (~17G for MSCOCO and 7G for Flickr30K), only the test split is available for download.**
 * [Flickr30K Test Split](https://drive.google.com/open?id=12wu0_S8j5tKSSrNHkm_nmy-NSlFhl4iz)
 * [MSCOCO Test Split](https://drive.google.com/open?id=11HvzcK_0EyP5JTth_AwCFgISNTzKX5PR)
+
+**Data set splits:
+
+* Train, and test splits (the left is used for validation) [download](https://drive.google.com/file/d/0B_s0NuQ5DMW_V3lEbUFNZnFpNlE/view)
+
 To extract images and sentences features, 
 * For image features, we use the VGG 19 network to extract features. 
 * For sentence features, we are using the code from "B. Klein, G. Lev, G. Sadeh, L. Wolf. Associating Neural Word Embeddings With Deep Image Representations Using Fisher Vectors (CVPR 2015)". Their code can be downloaded [here](https://owncloud.cs.tau.ac.il/index.php/s/vb7ys8Xe8J8s8vo).
