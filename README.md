@@ -6,14 +6,15 @@
 * Evaluate a model on a specific checkpoint: Set the path to the test dataset and checkpoint MetaGraph (.meta file). Run sh run_two_branch.sh --test.
 * Use a pre-trained model: Download checkpoints from the URLs below. Follow the instruction for evaluating model on a specific checkpoint.
 
+Any questions, feel free to contact me, lwang97@illinois.edu
+
 ## Dataset:
 **Due to the size of the features (~17G for MSCOCO and 7G for Flickr30K), only the test split is available for download.**
 * [Flickr30K Test Split](https://drive.google.com/open?id=12wu0_S8j5tKSSrNHkm_nmy-NSlFhl4iz)
 * [MSCOCO Test Split](https://drive.google.com/open?id=11HvzcK_0EyP5JTth_AwCFgISNTzKX5PR)
 
-**Data set splits:
-
-* Train, and test splits (the left is used for validation) [download](https://drive.google.com/file/d/0B_s0NuQ5DMW_V3lEbUFNZnFpNlE/view)
+Data set splits:
+* Train, and test splits (the left is used for validation), please check readme.txt [download](https://drive.google.com/file/d/0B_s0NuQ5DMW_V3lEbUFNZnFpNlE/view)
 
 To extract images and sentences features, 
 * For image features, we use the VGG 19 network to extract features. 
@@ -22,7 +23,6 @@ To extract images and sentences features,
 ## Pre-trained models:
 * [Flickr30K checkpoint](https://drive.google.com/open?id=1oSOFU73zm6gzx3VZEszq2athX5b4NREV)
 * [MSCOCO checkpoint](https://drive.google.com/open?id=1HTXoHsnhj5oRH4c-z60rYw67Els6gIpV)
-
 
 
 If you find our code helpful, please cite our Two-Branch Network Papers:
